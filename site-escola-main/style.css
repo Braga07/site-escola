@@ -1,0 +1,8 @@
+header{
+    background-color: white;
+    color:yellow;
+}
+body{
+    background-image: linear-gradient(to bottom, black , white);
+    background-attachment: fixed;
+}
